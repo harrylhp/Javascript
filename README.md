@@ -1,0 +1,2 @@
+# Mercurial
+For internal development
