@@ -1,2 +1,2 @@
 # Mercurial
-For internal development
+For javascript playground development
